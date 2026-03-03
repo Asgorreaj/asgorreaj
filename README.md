@@ -10,8 +10,6 @@
 
 💬 Ask me about React, Next.js, admin dashboard development, report generation systems, and practical problem-solving in real-world projects.
 
-📫 How to reach me: asgor.dev.ai@gmail.com
-
 😄 Pronouns: He/Him
 
 ⚡ Fun fact: I enjoy turning complex business logic into clean, user-friendly interfaces and optimizing systems to make them faster and smarter.
