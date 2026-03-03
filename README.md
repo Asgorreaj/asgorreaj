@@ -1,16 +1,17 @@
 ## Hi there 👋
 
-<!--
-**Asgorreaj/asgorreaj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔭 I’m currently working on improving my frontend engineering skills by building scalable and production-ready web applications using React and Next.js.
 
-Here are some ideas to get you started:
+🌱 I’m currently learning advanced system design concepts and exploring the integration of AI/ML into modern web applications.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+👯 I’m looking to collaborate on innovative web applications, admin dashboards, SaaS platforms, and AI-powered solutions.
+
+🤔 I’m looking for help with mastering advanced frontend architecture and performance optimization at scale.
+
+💬 Ask me about React, Next.js, admin dashboard development, report generation systems, and practical problem-solving in real-world projects.
+
+📫 How to reach me: asgor.dev.ai@gmail.com
+
+😄 Pronouns: He/Him
+
+⚡ Fun fact: I enjoy turning complex business logic into clean, user-friendly interfaces and optimizing systems to make them faster and smarter.
