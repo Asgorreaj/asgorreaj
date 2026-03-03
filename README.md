@@ -1,4 +1,4 @@
-## Hi there 👋
+<h1 align="left">Hiii 👋 I'm Asgor</h1>
 
 🔭 I’m currently working on improving my frontend engineering skills by building scalable and production-ready web applications using React and Next.js.
 
@@ -13,7 +13,7 @@
 😄 Pronouns: He/Him
 
 ⚡ Fun fact: I enjoy turning complex business logic into clean, user-friendly interfaces and optimizing systems to make them faster and smarter.
-<h1 align="left">Hiii 👋 I'm Asgor</h1>
+
 
 <p align="left">✨ Creating scalable web apps with React, Next.js & .NET  <br>📚 Currently learning AI/ML and advanced backend technologies  <br>🎯 Goal: Build high-performance, intelligent web platforms  <br>🧩 Fun fact: Coffee fuels my code ☕</p>
 
